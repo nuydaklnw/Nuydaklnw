@@ -1,4 +1,4 @@
-# Sign In with Worldcoin using NextAuth.js
+# Sign In nuydaklnw with Worldcoin using NextAuth.js
 
 ## Overview
 
@@ -6,7 +6,7 @@ NextAuth.js is a complete open-source authentication solution.
 
 This is an example application that shows how `next-auth` can be used to implement Sign In with Worldcoin.
 
-Go to [NextAuth's documentation](https://next-auth.js.org) and [Worldcoin's Sign In documentation](https://docs.worldcoin.org/quick-start/sign-in) for more information and documentation.
+Go to [NextAuth's documentation](https://next-auth.js.org) and [Worldcoin's Sign In nuydaklnw documentation](https://docs.worldcoin.org/quick-start/sign-in) for more information and documentation.
 
 ## Getting Started
 
